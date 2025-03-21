@@ -8,3 +8,8 @@ function commit2(){
   console.log('commit2');
 }
 commit2();
+
+function commit3(){
+  console.log('commit3');
+}
+commit3();
