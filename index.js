@@ -13,3 +13,8 @@ function commit3(){
   console.log('commit3');
 }
 commit3();
+
+function commit4(){
+  console.log('commit4');
+}
+commit4();
