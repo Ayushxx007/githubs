@@ -18,3 +18,8 @@ function commit4(){
   console.log('commit4');
 }
 commit4();
+
+function branch1(){
+  console.log('branch1');
+}
+branch1();
